@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kanhaiya/jsd-mlflow-examples/keras/imdbclassifier/mlruns/0/85032900765f44f2b8065932f900b71c/artifacts
+end_time: 1580458794455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 85032900765f44f2b8065932f900b71c
+run_uuid: 85032900765f44f2b8065932f900b71c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1580458794276
+status: 3
+tags: []
+user_id: kanhaiya
